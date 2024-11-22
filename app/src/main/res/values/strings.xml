@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MPAssignment2</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="back">back</string>
+    <string name="app_logo">OMDB Movie Assignment App</string>
+    <string name="plot">Plot</string>
+    <string name="plot_text">This is the plot of the movie. It is an amazing story.</string>
+    <string name="placeholder_movie_title">Movie Title</string>
+    <string name="placeholder_year">2022</string>
+    <string name="placeholder_genre">Genre: Action, Comedy</string>
+    <string name="placeholder_imdb_rating">IMDb Rating: 8.5</string>
+    <string name="label_director">Director:</string>
+    <string name="placeholder_director">Meshwa Patel</string>
+    <string name="label_actors">Actors:</string>
+    <string name="placeholder_actors">-</string>
+    <string name="label_runtime">Runtime:</string>
+    <string name="placeholder_runtime">120 minutes</string>
+    <string name="label_box_office">Box Office:</string>
+    <string name="placeholder_box_office">$1,000,000</string>
+</resources>
